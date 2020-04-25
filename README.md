@@ -4,4 +4,5 @@
 
 
 ##### Cloud top temperature (°C), Sea level pressure (hPa), Wind barbs (m/s):
-!https://github.com/lucasdmtn/wrf_output_plots/blob/master/slp_t2_dir.png
+
+https://github.com/lucasdmtn/wrf_output_plots/blob/master/slp_t2_dir.png
