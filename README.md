@@ -4,10 +4,10 @@
 
 
 ### Cloud top temperature (°C), Sea level pressure (hPa), Wind barbs (m/s):
-[Imagem1](https://github.com/lucasdmtn/wrf_output_plots/blob/master/slp_t2_dir.png)
+[PLOT_1](https://github.com/lucasdmtn/wrf_output_plots/blob/master/slp_t2_dir.png)
 
 
 
 ### Wind speed and geopotential height at 500 hPa
-[Imagem2](https://github.com/lucasdmtn/wrf_output_plots/blob/master/h_wspd_500.png)
+[PLOT_2](https://github.com/lucasdmtn/wrf_output_plots/blob/master/h_wspd_500.png)
 
