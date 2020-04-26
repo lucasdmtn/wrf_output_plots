@@ -11,3 +11,7 @@
 ### Wind speed and geopotential height at 500 hPa
 [PLOT_2](https://github.com/lucasdmtn/wrf_output_plots/blob/master/h_wspd_500.png)
 
+
+
+### Goes16 [OBS_SAT] + geopotential height at 500 hPa and cloud top temperature [OUTPUT WRF]
+[PLOT_3](https://github.com/lucasdmtn/wrf_output_plots/blob/master/c13_h500_ctt.png)
